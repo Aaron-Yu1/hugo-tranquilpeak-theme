@@ -8,5 +8,6 @@ src/_bower_components
 static/js/*
 !static/js/script-*.min.js
 static/css/*
+!static/css/mystyle.css
 !static/css/style-*.min.css
 
